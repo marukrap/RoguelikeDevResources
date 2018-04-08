@@ -53,7 +53,7 @@
 * [IMGUI by Rickard Gustafsson](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/Advanced%20Computer%20Graphics/IMGUI.pdf) - PDF
 * [Immediate Mode Model/View/Controller](http://www.johno.se/book/imgui.html)
 * [IMGUI Implementation and Demo](http://silverspaceship.com/inner/imgui/)
-* [Retained Mode Versus Immediate Mode](https://msdn.microsoft.com/en-us/library/windows/desktop/ff684178(v=vs.85).aspx) - MSDN
+* [Retained Mode Versus Immediate Mode](https://msdn.microsoft.com/en-us/library/windows/desktop/ff684178(v=vs.85).aspx)
 * [Dear ImGui](https://github.com/ocornut/imgui) - C++
 * [Nuklear](https://github.com/vurtun/nuklear) - C
 
@@ -125,7 +125,7 @@
 * [Open Source Game Clones](http://osgameclones.com/)
 * [Open Source Commercial Games](http://www.codersnotes.com/notes/the-man-behind-the-curtain/)
 * [Open Source Commercial Games Review](http://fabiensanglard.net/)
-* [SFML Game Development Book](https://github.com/SFML/SFML-Game-Development-Book) - SFML :+1:
+* [SFML Game Development Book](https://github.com/SFML/SFML-Game-Development-Book) - C++/SFML :+1:
 
 ## Resources
 

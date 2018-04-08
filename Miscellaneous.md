@@ -24,19 +24,19 @@
 
 ## Fonts
 
-* [VT220](http://christfollower.me/misc/glasstty/index.html) - [Mod](https://github.com/lalo/VT220-mod-font)
+* [Hacking with Style: TrueType VT220 Font](http://christfollower.me/misc/glasstty/index.html) - [Modification](https://github.com/lalo/VT220-mod-font)
 
 ### Programming
 
-* [Codeface](https://github.com/chrissimpkins/codeface) - Typefaces for Source Code Beautification
+* [Codeface: Typefaces for Source Code Beautification](https://github.com/chrissimpkins/codeface)
 * [Programming Fonts](http://programmingfonts.org/)
 * [Programming Fonts: Test Drive](http://app.programmingfonts.org/)
 * [Programming Font Comparison](https://s9w.github.io/font_compare/)
-* [Monospaced bitmap fonts for X11](https://github.com/Tecate/bitmap-fonts)
+* [Monospaced Bitmap Fonts for X11](https://github.com/Tecate/bitmap-fonts)
 
 ### Pixel
 
-* [Yuji Oshimoto's 04 fonts](http://04.jp.org/) - :+1:
+* [Yuji Oshimoto's 04 Fonts](http://04.jp.org/) - :+1:
 * [Font Stuff from codeman38](http://www.zone38.net/font/)
 * [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/fontlist/)
 
