@@ -23,6 +23,7 @@
 ## Resources
 
 * [RogueBasin Articles](http://www.roguebasin.com/index.php?title=Articles) - :+1:
+* [Procedural Generation Resources](https://www.firespark.de/?id=article&article=ProceduralGenerationResources) - :+1:
 * [Random Dungeon Generators](http://wiki.secretgeek.net/random-dungeon-generators)
 * [Procedural Map Generation](http://www.gridsagegames.com/blog/2014/06/procedural-map-generation/)
 * [FAQ Friday](https://www.reddit.com/r/roguelikedev/wiki/faq_friday)
@@ -69,7 +70,6 @@
 
 	* Miscellaneous
 		* [The Original Rogue Algorithm](https://web.archive.org/web/20131025132021/http://kuoi.org/~kamikaze/GameDesign/art07_rogue_dungeon.php)
-		* [Procedural Generation Resources](https://www.firespark.de/?id=article&article=ProceduralGenerationResources)
 		* [Three Techniques to Procedurally Generate Dungeons](https://www.reddit.com/r/gamedev/comments/2lyqki/three_techniques_to_procedurally_generate/)
 		* [Dungeon Maker](http://dungeonmaker.sourceforge.net/DM2_Manual/index.html)
 			* [Level Generator](https://github.com/mreinstein/level-generator)
