@@ -67,6 +67,19 @@
 * [Dear ImGui](https://github.com/ocornut/imgui) - C++
 * [Nuklear](https://github.com/vurtun/nuklear) - C
 
+#### Procedural Generation
+
+* [Procedural Content Generation Wiki](http://pcg.wikidot.com/)
+* [How to Choose Colours Procedurally](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/)
+* [How to Generate Random Colors Programmatically](http://martin.ankerl.com/2009/12/09/how-to-create-random-colors-programmatically/)
+* [Abundant Music](http://www.abundant-music.com/)
+* [Simple 2D Landscape Generator Inspired by No Man's Sky](http://theadarshsinha.com/pcg.html) - [#2](https://www.reddit.com/r/proceduralgeneration/comments/4v3vce/simple_2d_scenemountainlandscape_generator/)
+* [Heighway Dragon](http://ecademy.agnesscott.edu/~lriddle/ifs/heighway/heighway.htm)
+* [ConvChain](https://github.com/mxgmn/ConvChain) - Procedural Bitmap Generation from a Single Example
+* [SynTex](https://github.com/mxgmn/SynTex) - Texture Synthesis from Examples
+* [Pixel Sprite Generator](https://github.com/zfedoran/pixel-sprite-generator)
+* [Icon Machine](http://brianmacintosh.com/iconmachine/) - Potion Icons
+
 ## Graphics
 
 * [The Beauty of Bresenham's Algorithm](http://members.chello.at/easyfilter/bresenham.html)
@@ -113,31 +126,6 @@
 * [How to Create Interesting Backgrounds with Tiles](https://imgur.com/gallery/eOqOZ6d) - [Demo](http://www.blockadillo.com/thewall/)
 * [Zelda Live Maps](http://pixelslivewallpaper.github.io/jadsdsengine/Zelda.htm)
 
-## Tutorials
-
-* [Creating a City Building Game with SFML](http://www.binpress.com/tutorial/creating-a-city-building-game-with-sfml/137) - C++/SFML
-* [The Guide to Implementing 2D Platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
-
-## Procedural Generation
-
-* [Procedural Content Generation Wiki](http://pcg.wikidot.com/)
-* [How to Choose Colours Procedurally](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/)
-* [How to Generate Random Colors Programmatically](http://martin.ankerl.com/2009/12/09/how-to-create-random-colors-programmatically/)
-* [Abundant Music](http://www.abundant-music.com/)
-* [Simple 2D Landscape Generator Inspired by No Man's Sky](http://theadarshsinha.com/pcg.html) - [#2](https://www.reddit.com/r/proceduralgeneration/comments/4v3vce/simple_2d_scenemountainlandscape_generator/)
-* [Heighway Dragon](http://ecademy.agnesscott.edu/~lriddle/ifs/heighway/heighway.htm)
-* [ConvChain](https://github.com/mxgmn/ConvChain) - Procedural Bitmap Generation from a Single Example
-* [SynTex](https://github.com/mxgmn/SynTex) - Texture Synthesis from Examples
-* [Pixel Sprite Generator](https://github.com/zfedoran/pixel-sprite-generator)
-* [Icon Machine](http://brianmacintosh.com/iconmachine/) - Potion Icons
-
-## Open Source
-
-* [Open Source Game Clones](http://osgameclones.com/)
-* [Open Source Commercial Games](http://www.codersnotes.com/notes/the-man-behind-the-curtain/)
-* [Open Source Commercial Games Review](http://fabiensanglard.net/)
-* [SFML Game Development Book](https://github.com/SFML/SFML-Game-Development-Book) - C++/SFML :+1:
-
 ### Pixel Art
 
 * [PixelArtus](http://pixelartus.com/)
@@ -149,3 +137,15 @@
 ### Sound Effects
 
 * [Jfxr](http://jfxr.frozenfractal.com/) - Generate Sound Effects
+
+## Tutorials
+
+* [Creating a City Building Game with SFML](http://www.binpress.com/tutorial/creating-a-city-building-game-with-sfml/137) - C++/SFML
+* [The Guide to Implementing 2D Platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
+
+## Open Source
+
+* [Open Source Game Clones](http://osgameclones.com/)
+* [Open Source Commercial Games](http://www.codersnotes.com/notes/the-man-behind-the-curtain/)
+* [Open Source Commercial Games Review](http://fabiensanglard.net/)
+* [SFML Game Development Book](https://github.com/SFML/SFML-Game-Development-Book) - C++/SFML :+1:
