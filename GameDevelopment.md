@@ -1,5 +1,15 @@
 # Game Development Resources
 
+## Resources
+
+* [A Wonderful List of Game Development Resources](https://github.com/Kavex/GameDev-Resources)
+* [Useful Programming and Game Development Resources](https://eliasdaler.github.io/programming-and-gamedev-resources/)
+* [Game Development Resources](https://game-development.zeef.com/david.arcila)
+* [Pocketknives for Game Developers](https://www.reddit.com/r/gamedev/comments/18e38t/pocketknives_for_game_developers/)
+* [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
+* [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) - Videos
+* [OpenGameArt.org](http://opengameart.org/)
+
 ## Design
 
 * [Probability and Games: Damage Rolls](https://www.redblobgames.com/articles/probability/damage-rolls.html)
@@ -127,16 +137,6 @@
 * [Open Source Commercial Games](http://www.codersnotes.com/notes/the-man-behind-the-curtain/)
 * [Open Source Commercial Games Review](http://fabiensanglard.net/)
 * [SFML Game Development Book](https://github.com/SFML/SFML-Game-Development-Book) - C++/SFML :+1:
-
-## Resources
-
-* [A Wonderful List of Game Development Resources](https://github.com/Kavex/GameDev-Resources)
-* [Useful Programming and Game Development Resources](https://eliasdaler.github.io/programming-and-gamedev-resources/)
-* [Game Development Resources](https://game-development.zeef.com/david.arcila)
-* [Pocketknives for Game Developers](https://www.reddit.com/r/gamedev/comments/18e38t/pocketknives_for_game_developers/)
-* [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
-* [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) - Videos
-* [OpenGameArt.org](http://opengameart.org/)
 
 ### Pixel Art
 
