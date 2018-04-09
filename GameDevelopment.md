@@ -119,6 +119,7 @@
 * [ConvChain](https://github.com/mxgmn/ConvChain) - Procedural Bitmap Generation from a Single Example
 * [SynTex](https://github.com/mxgmn/SynTex) - Texture Synthesis from Examples
 * [Pixel Sprite Generator](https://github.com/zfedoran/pixel-sprite-generator)
+* [Icon Machine](http://brianmacintosh.com/iconmachine/) - Potion Icons
 
 ## Open Source
 
@@ -130,6 +131,7 @@
 ## Resources
 
 * [A Wonderful List of Game Development Resources](https://github.com/Kavex/GameDev-Resources)
+* [Useful Programming and Game Development Resources](https://eliasdaler.github.io/programming-and-gamedev-resources/)
 * [Game Development Resources](https://game-development.zeef.com/david.arcila)
 * [Pocketknives for Game Developers](https://www.reddit.com/r/gamedev/comments/18e38t/pocketknives_for_game_developers/)
 * [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
@@ -141,7 +143,8 @@
 * [PixelArtus](http://pixelartus.com/)
 * [PixelJoint](http://pixeljoint.com/)
 * [Pixel Art Tutorials](https://lospec.com/pixel-art-tutorials)
-* [Pixel Art Tutorial - Spaceship](https://imgur.com/gallery/uBvoO)
+* [Pixel Art Tutorials by Pedro Medeiros](https://www.patreon.com/saint11/posts) - [#2](http://blog.studiominiboss.com/pixelart)
+* [Pixel Art Tutorials by Sadface](https://www.patreon.com/sadface_RL/posts)
 
 ### Sound Effects
 

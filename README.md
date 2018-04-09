@@ -49,6 +49,7 @@
 		* [C# Algorithm to Build Interesting Cave Systems](http://www.evilscience.co.uk/a-c-algorithm-to-build-roguelike-cave-systems-part-1/)
 		* [Procedural Cave Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator) - Unity/C#, 3D
 		* [How Does Level Generation Work In Brogue?](https://www.rockpapershotgun.com/2015/07/28/how-do-roguelikes-generate-levels/) - :+1:
+		* [Python Dungeon Generator](https://whatjaysaid.wordpress.com/2016/01/15/1228/)
 
 	* Graph
 		* [Over-Engineering Dungeon Generation](http://angband.oook.cz/forum/showthread.php?t=927)
@@ -61,6 +62,7 @@
 		* [Herringbone Wang Tiles](http://nothings.org/gamedev/herringbone/) - :+1:
 		* [Rogue-like Level Generator](https://www.reddit.com/r/proceduralgeneration/comments/3pa8a1/my_take_at_a_roguelike_level_generator_ft/)
 		* [Procedural Room Generation Explained](http://www.magicaltimebean.com/2014/11/procedural-room-generation-explained/)
+		* [How I Learned to Stop Worrying and Love Prefabs](http://www.goldenkronehotel.com/wordpress/2017/02/18/how-i-learned-to-stop-worrying-and-love-prefabs/)
 		* [A Template-Based Approach to Procedural Map Generation](https://docs.google.com/document/d/e/2PACX-1vR2cc7r4s_K2T9AYWn06HiccQBv4jlfeFD874yWTa6BZOBDKLVMH7pRW0wZIOZ8cqHombTISFVMlkbV/pub)
 
 	* Miscellaneous
@@ -69,7 +71,12 @@
 		* [Random Dungeon Generators](http://wiki.secretgeek.net/random-dungeon-generators)
 		* [Procedural Map Generation](http://www.gridsagegames.com/blog/2014/06/procedural-map-generation/) - :+1:
 		* [Dungeon Maker](http://dungeonmaker.sourceforge.net/DM2_Manual/index.html)
+			* [Level Generator](https://github.com/mreinstein/level-generator)
+		* [A Bunch of Dungeon Algorithms](https://www.reddit.com/r/roguelikedev/comments/6df0aw/my_implementation_of_a_bunch_of_dungeon_algorithms/)
 		* [Recursive Tile Map Growth](https://github.com/r3eckon/Recursive-Tile-Map-Growth) - Java
+		* [Level Generator Toolkit](https://chilly-durango.itch.io/level-generator-toolkit)
+		* [DCSS Layout Types](https://crawl.develz.org/wiki/doku.php?id=dcss:brainstorm:dungeon:layout_types)
+		* [Sample Levels from placerooms.pl](http://jonadab.jumpingcrab.com/pastebin/508.html) - [#2](https://github.com/tsadok/level-generator-perlscripts/blob/master/placerooms.pl)
 		* [Make a Mystery Dungeon](http://www5f.biglobe.ne.jp/~kenmo/program/dangeon2/dangeon2.html) - :jp:
 
 * **Town**
@@ -80,18 +87,22 @@
 	* [Map Generator Based on Voronoi Diagram and Perlin Noise](https://github.com/averrin/mapgen) - C++
 	* [World Generator Inspired by Dwarf Fortress](https://github.com/Dozed12/df-style-worldgen) - Python
 	* [Overworld Overview](http://bytten-studio.com/devlog/2014/09/08/overworld-overview-part-1/)
+	* [Building an Infinite Procedurally-Generated World](https://spin.atomicobject.com/2015/05/03/infinite-procedurally-generated-world/)
+	* [World Generation Breakdown](http://www.nolithius.com/articles/world-generation/world-generation-breakdown)
 
 * **Space**
 	* [Procedural Generation for Dummies: Galaxy Generation](http://martindevans.me/game-development/2016/01/14/Procedural-Generation-For-Dummies-Galaxies/)
 	* [Procedural Stars Map](http://simonrodriguez.fr/starmap/)
 	* [Procedural Generation of 2D Space Scenes in WebGL](https://wwwtyro.net/2016/10/22/2D-space-scene-procgen.html)
 	* [A 2D Procedural Galaxy with C++](http://itinerantgames.tumblr.com/post/78592276402/a-2d-procedural-galaxy-with-c)
+	* [The Frontier Galaxy](http://www.jongware.com/galaxy1.html)
+	* [How I Generate a Layout for Space Ships; Quick Guide](https://www.reddit.com/r/gamedev/comments/1z676s/how_i_generate_a_layout_for_space_ships_quick/)
+	* [Randomly Generating Simple Spaceships In Heat Signature](https://www.pentadact.com/2014-02-07-randomly-generating-simple-spaceships-in-heat-signature/) - [#2](https://www.pentadact.com/2014-07-19-improving-heat-signatures-randomly-generated-ships-inside-and-out/)
 	* Poisson Disk Sampling
 		* [Fast Poisson Disk Sampling in Arbitrary Dimensions](http://www.cs.ubc.ca/~rbridson/docs/bridson-siggraph07-poissondisk.pdf) - PDF
 		* [Poisson-Disc Sampling](https://www.jasondavies.com/poisson-disc/) - Demo
 		* [Poisson Disk Sampling](http://devmag.org.za/2009/05/03/poisson-disk-sampling/) - Tutorial
 		* [Poisson Disk Points Generator](https://github.com/corporateshark/poisson-disk-generator) - C++
-
 
 ### Field of View
 
