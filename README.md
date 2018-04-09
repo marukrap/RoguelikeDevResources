@@ -70,15 +70,15 @@
 
 	* Miscellaneous
 		* [The Original Rogue Algorithm](https://web.archive.org/web/20131025132021/http://kuoi.org/~kamikaze/GameDesign/art07_rogue_dungeon.php)
-		* [Three Techniques to Procedurally Generate Dungeons](https://www.reddit.com/r/gamedev/comments/2lyqki/three_techniques_to_procedurally_generate/)
 		* [Dungeon Maker](http://dungeonmaker.sourceforge.net/DM2_Manual/index.html)
 			* [Level Generator](https://github.com/mreinstein/level-generator)
-		* [A Bunch of Dungeon Algorithms](https://www.reddit.com/r/roguelikedev/comments/6df0aw/my_implementation_of_a_bunch_of_dungeon_algorithms/)
 		* [Recursive Tile Map Growth](https://github.com/r3eckon/Recursive-Tile-Map-Growth) - Java
+		* [Make a Mystery Dungeon](http://www5f.biglobe.ne.jp/~kenmo/program/dangeon2/dangeon2.html) - :jp:
+		* [Three Techniques to Procedurally Generate Dungeons](https://www.reddit.com/r/gamedev/comments/2lyqki/three_techniques_to_procedurally_generate/)
+		* [A Bunch of Dungeon Algorithms](https://www.reddit.com/r/roguelikedev/comments/6df0aw/my_implementation_of_a_bunch_of_dungeon_algorithms/)
 		* [Level Generator Toolkit](https://chilly-durango.itch.io/level-generator-toolkit)
 		* [DCSS Layout Types](https://crawl.develz.org/wiki/doku.php?id=dcss:brainstorm:dungeon:layout_types)
 		* [Sample Levels from placerooms.pl](http://jonadab.jumpingcrab.com/pastebin/508.html) - [#2](https://github.com/tsadok/level-generator-perlscripts/blob/master/placerooms.pl)
-		* [Make a Mystery Dungeon](http://www5f.biglobe.ne.jp/~kenmo/program/dangeon2/dangeon2.html) - :jp:
 
 * **Town**
 	* [A Constrained Growth Method for Procedural Floor Plan Generation](http://graphics.tudelft.nl/~rval/papers/lopes.GAMEON10.pdf) - PDF
@@ -97,13 +97,17 @@
 	* [Procedural Generation of 2D Space Scenes in WebGL](https://wwwtyro.net/2016/10/22/2D-space-scene-procgen.html)
 	* [A 2D Procedural Galaxy with C++](http://itinerantgames.tumblr.com/post/78592276402/a-2d-procedural-galaxy-with-c)
 	* [The Frontier Galaxy](http://www.jongware.com/galaxy1.html)
-	* [How I Generate a Layout for Space Ships; Quick Guide](https://www.reddit.com/r/gamedev/comments/1z676s/how_i_generate_a_layout_for_space_ships_quick/)
-	* [Randomly Generating Simple Spaceships In Heat Signature](https://www.pentadact.com/2014-02-07-randomly-generating-simple-spaceships-in-heat-signature/) - [#2](https://www.pentadact.com/2014-07-19-improving-heat-signatures-randomly-generated-ships-inside-and-out/)
 	* Poisson Disk Sampling
 		* [Fast Poisson Disk Sampling in Arbitrary Dimensions](http://www.cs.ubc.ca/~rbridson/docs/bridson-siggraph07-poissondisk.pdf) - PDF
 		* [Poisson-Disc Sampling](https://www.jasondavies.com/poisson-disc/) - Demo
 		* [Poisson Disk Sampling](http://devmag.org.za/2009/05/03/poisson-disk-sampling/) - Tutorial
 		* [Poisson Disk Points Generator](https://github.com/corporateshark/poisson-disk-generator) - C++
+
+* **Spaceship**
+	* [How I Generate a Layout for Space Ships; Quick Guide](https://www.reddit.com/r/gamedev/comments/1z676s/how_i_generate_a_layout_for_space_ships_quick/)
+	* [Randomly Generating Simple Spaceships In Heat Signature](https://www.pentadact.com/2014-02-07-randomly-generating-simple-spaceships-in-heat-signature/) - [#2](https://www.pentadact.com/2014-07-19-improving-heat-signatures-randomly-generated-ships-inside-and-out/)
+	* [Procedurally Generate Spaceship Sprites](https://github.com/stewsters/shipwright)
+	* [How My Toolkit Builds Spaceships](https://www.reddit.com/r/proceduralgeneration/comments/6daqjb/really_pleased_with_how_my_toolkit_builds/)
 
 ### Field of View
 
@@ -153,6 +157,7 @@
 ## Open Source Roguelikes
 
 * [Angband](https://github.com/angband/angband) - C
+* [Nethack](https://github.com/NetHack/NetHack) - C
 * [Retro Rogue Collection](https://github.com/mikeyk730/Rogue-Collection) - C :+1:
 * [Martin's Dungeon Bash](http://www.chiark.greenend.org.uk/~mpread/dungeonbash/) - C/C++
 * [Cataclysm DDA](https://github.com/CleverRaven/Cataclysm-DDA) - C++
