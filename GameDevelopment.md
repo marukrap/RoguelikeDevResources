@@ -144,6 +144,7 @@
 
 * [Creating a City Building Game with SFML](http://www.binpress.com/tutorial/creating-a-city-building-game-with-sfml/137) - C++/SFML
 * [The Guide to Implementing 2D Platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
+* [Guide to Making Metroidvania Styled Games](https://pixelartus.com/post/160163780146/guide-to-making-metroidvania-styled-games-part-1)
 
 ## Open Source
 
