@@ -90,6 +90,12 @@
 	* [Overworld Overview](http://bytten-studio.com/devlog/2014/09/08/overworld-overview-part-1/)
 	* [Building an Infinite Procedurally-Generated World](https://spin.atomicobject.com/2015/05/03/infinite-procedurally-generated-world/)
 	* [World Generation Breakdown](http://www.nolithius.com/articles/world-generation/world-generation-breakdown)
+	* [Creating a Random 2D Game World Map](https://gillesleblanc.wordpress.com/2012/10/16/creating-a-random-2d-game-world-map/)
+	
+* **Landscape**
+	* [Landscape Generation using Midpoint Displacement](https://bitesofcode.wordpress.com/2016/12/23/landscape-generation-using-midpoint-displacement/)
+	* [Simple 2D Terrain with Midpoint Displacement](http://www.somethinghitme.com/2013/11/11/simple-2d-terrain-with-midpoint-displacement/)
+	* [Simple 2D Landscape Generator Inspired by No Man's Sky](http://theadarshsinha.com/pcg.html) - [#2](https://www.reddit.com/r/proceduralgeneration/comments/4v3vce/simple_2d_scenemountainlandscape_generator/)
 
 * **Space**
 	* [Procedural Generation for Dummies: Galaxy Generation](http://martindevans.me/game-development/2016/01/14/Procedural-Generation-For-Dummies-Galaxies/)
