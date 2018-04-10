@@ -72,6 +72,7 @@
 #### Procedural Generation
 
 * [Procedural Content Generation Wiki](http://pcg.wikidot.com/)
+* [Procedural Content Generation](http://larc.unt.edu/ian/research/content/)
 * [How to Choose Colours Procedurally](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/)
 * [How to Generate Random Colors Programmatically](http://martin.ankerl.com/2009/12/09/how-to-create-random-colors-programmatically/)
 * [Abundant Music](http://www.abundant-music.com/)
