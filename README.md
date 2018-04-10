@@ -91,6 +91,7 @@
 	* [Building an Infinite Procedurally-Generated World](https://spin.atomicobject.com/2015/05/03/infinite-procedurally-generated-world/)
 	* [World Generation Breakdown](http://www.nolithius.com/articles/world-generation/world-generation-breakdown)
 	* [Creating a Random 2D Game World Map](https://gillesleblanc.wordpress.com/2012/10/16/creating-a-random-2d-game-world-map/)
+	* [Procedural Worlds from Simple Tiles](http://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
 	
 * **Landscape**
 	* [Landscape Generation using Midpoint Displacement](https://bitesofcode.wordpress.com/2016/12/23/landscape-generation-using-midpoint-displacement/)
