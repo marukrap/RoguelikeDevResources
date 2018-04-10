@@ -4,7 +4,7 @@
 
 * [Communities](#communities)
 * [Resources](#resources)
-	* [Map](#map)
+	* [Procedural Map](#procedural-map)
 	* [Field of View](#field-of-view)
 	* [AI](#ai)
 	* [Time Management](#time-management)
@@ -29,7 +29,7 @@
 * [FAQ Friday](https://www.reddit.com/r/roguelikedev/wiki/faq_friday)
 * [Roguelike Tilesets](https://www.reddit.com/r/roguelikedev/comments/436sop/roguelike_tilesets/)
 
-### Map
+### Procedural Map
 
 * **Dungeon**
 	* BSP
@@ -85,12 +85,12 @@
 
 * **Overworld**
 	* [Generating Fantasy Maps](http://mewo2.com/notes/terrain/)
-	* [Map Generator Based on Voronoi Diagram and Perlin Noise](https://github.com/averrin/mapgen) - C++
-	* [World Generator Inspired by Dwarf Fortress](https://github.com/Dozed12/df-style-worldgen) - Python
 	* [Overworld Overview](http://bytten-studio.com/devlog/2014/09/08/overworld-overview-part-1/)
-	* [Building an Infinite Procedurally-Generated World](https://spin.atomicobject.com/2015/05/03/infinite-procedurally-generated-world/)
 	* [World Generation Breakdown](http://www.nolithius.com/articles/world-generation/world-generation-breakdown)
 	* [Creating a Random 2D Game World Map](https://gillesleblanc.wordpress.com/2012/10/16/creating-a-random-2d-game-world-map/)
+	* [Building an Infinite Procedurally-Generated World](https://spin.atomicobject.com/2015/05/03/infinite-procedurally-generated-world/)
+	* [Map Generator Based on Voronoi Diagram and Perlin Noise](https://github.com/averrin/mapgen) - C++
+	* [World Generator Inspired by Dwarf Fortress](https://github.com/Dozed12/df-style-worldgen) - Python
 	* [Procedural Worlds from Simple Tiles](http://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
 	
 * **Landscape**
