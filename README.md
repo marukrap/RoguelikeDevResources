@@ -4,7 +4,7 @@
 
 * [Communities](#communities)
 * [Resources](#resources)
-	* [Procedural Map](#procedural-map)
+	* [Procedural Map Generation](#procedural-map-generation)
 	* [Field of View](#field-of-view)
 	* [AI](#ai)
 	* [Time Management](#time-management)
@@ -29,7 +29,7 @@
 * [FAQ Friday](https://www.reddit.com/r/roguelikedev/wiki/faq_friday)
 * [Roguelike Tilesets](https://www.reddit.com/r/roguelikedev/comments/436sop/roguelike_tilesets/)
 
-### Procedural Map
+### Procedural Map Generation
 
 * **Dungeon**
 	* BSP
