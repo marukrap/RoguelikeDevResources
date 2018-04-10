@@ -75,7 +75,6 @@
 * [How to Choose Colours Procedurally](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/)
 * [How to Generate Random Colors Programmatically](http://martin.ankerl.com/2009/12/09/how-to-create-random-colors-programmatically/)
 * [Abundant Music](http://www.abundant-music.com/)
-* [Simple 2D Landscape Generator Inspired by No Man's Sky](http://theadarshsinha.com/pcg.html) - [#2](https://www.reddit.com/r/proceduralgeneration/comments/4v3vce/simple_2d_scenemountainlandscape_generator/)
 * [Heighway Dragon](http://ecademy.agnesscott.edu/~lriddle/ifs/heighway/heighway.htm)
 * [ConvChain](https://github.com/mxgmn/ConvChain) - Procedural Bitmap Generation from a Single Example
 * [SynTex](https://github.com/mxgmn/SynTex) - Texture Synthesis from Examples
