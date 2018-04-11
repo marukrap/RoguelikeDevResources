@@ -79,6 +79,8 @@
 * [Heighway Dragon](http://ecademy.agnesscott.edu/~lriddle/ifs/heighway/heighway.htm)
 * [ConvChain](https://github.com/mxgmn/ConvChain) - Procedural Bitmap Generation from a Single Example
 * [SynTex](https://github.com/mxgmn/SynTex) - Texture Synthesis from Examples
+* [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & Tilemap Generation from a Single Example
+* [Worms-Style Terrain Generation in JavaScript](https://juliango202.com/terrainver/)
 * [Pixel Sprite Generator](https://github.com/zfedoran/pixel-sprite-generator)
 * [Icon Machine](http://brianmacintosh.com/iconmachine/) - Potion Icons
 
