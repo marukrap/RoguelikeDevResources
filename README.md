@@ -34,7 +34,7 @@
 * **Dungeon**
 	* BSP
 		* [Basic BSP Dungeon Generation](http://www.roguebasin.com/index.php?title=Basic_BSP_Dungeon_generation)
-		* [Random Map Generators](http://www.acornarcade.com/articles/Random_map_generators/index1114.html) -  [#2](http://www.acornarcade.com/articles/Building_the_Dream_1_-_Container_data_structures/index1162.html) [#3](http://www.acornarcade.com/articles/Building_the_Dream_2_-_The_RISC_OS_Sound_System/index1209.html) [#4](http://www.acornarcade.com/articles/Building_the_Dream_3_-_Random_map_generators_redux/index1211.html) [#5](http://www.acornarcade.com/articles/Building_the_Dream_4_-_Random_city_basics/index1214.html)
+		* [Random Map Generators](http://www.acornarcade.com/articles/Random_map_generators/index1114.html) - [#2](http://www.acornarcade.com/articles/Building_the_Dream_1_-_Container_data_structures/index1162.html) [#3](http://www.acornarcade.com/articles/Building_the_Dream_2_-_The_RISC_OS_Sound_System/index1209.html) [#4](http://www.acornarcade.com/articles/Building_the_Dream_3_-_Random_map_generators_redux/index1211.html) [#5](http://www.acornarcade.com/articles/Building_the_Dream_4_-_Random_city_basics/index1214.html)
 		* [Procedural Dungeon Generation](http://www.varav.in/posts/2016/05/25/dungeon.html)
 		* [Procedural Dungeon Generator](https://www.reddit.com/r/gamedev/comments/z6gl5/procedural_dungeon_generator/)
 		* [Infra Arcana Map Generation Demo](http://forums.roguetemple.com/index.php?topic=3778.0) - Videos [#2](http://www.youtube.com/watch?v=b6Kz2qMyKww) [#3](http://www.youtube.com/watch?v=_oRKLYqB4GI)
@@ -59,6 +59,7 @@
 		* [Procedural Dungeon Generation Algorithm Explained](https://www.reddit.com/r/gamedev/comments/1dlwc4/procedural_dungeon_generation_algorithm_explained/) - :+1:
 		* [Procedural Dungeon Generation Algorithm](https://github.com/adonaac/blog/issues/7)
 		* [Dungeon Generation Algorithm](https://www.reddit.com/r/roguelikedev/comments/1sd730/my_dungeon_generation_algorithm/) - Relative Neighborhood Graph
+		* [2d Map Generated with a Node-Based Approach](https://www.reddit.com/r/proceduralgeneration/comments/65xrvc/2d_map_generated_with_a_nodebased_approach/)
 
 	* Template
 		* [Spelunky Generator Lessons](http://tinysubversions.com/spelunkyGen/)
