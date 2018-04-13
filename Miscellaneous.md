@@ -42,6 +42,7 @@
 
 ### Korean
 
+* [Google Fonts + 한국어](https://googlefonts.github.io/korean/)
 * [Neo둥근모](http://dalgona.hontou.moe/neodgm/)
 * [둥근모꼴 + Fixedsys](http://cactus.tistory.com/193)
 * [한글틀고딕](https://www.koreafont.com/intro/%ED%95%9C%EA%B8%80%ED%8B%80%EA%B3%A0%EB%94%95/)
