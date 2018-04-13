@@ -59,7 +59,7 @@
 		* [Procedural Dungeon Generation Algorithm Explained](https://www.reddit.com/r/gamedev/comments/1dlwc4/procedural_dungeon_generation_algorithm_explained/) - :+1:
 		* [Procedural Dungeon Generation Algorithm](https://github.com/adonaac/blog/issues/7)
 		* [Dungeon Generation Algorithm](https://www.reddit.com/r/roguelikedev/comments/1sd730/my_dungeon_generation_algorithm/) - Relative Neighborhood Graph
-		* [2d Map Generated with a Node-Based Approach](https://www.reddit.com/r/proceduralgeneration/comments/65xrvc/2d_map_generated_with_a_nodebased_approach/)
+		* [2D Map Generated with a Node-Based Approach](https://www.reddit.com/r/proceduralgeneration/comments/65xrvc/2d_map_generated_with_a_nodebased_approach/)
 
 	* Template
 		* [Spelunky Generator Lessons](http://tinysubversions.com/spelunkyGen/)
