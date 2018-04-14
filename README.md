@@ -64,7 +64,7 @@
 			* [TinyKeep](https://forums.tigsource.com/index.php?topic=36176.0) - Devlog
 			* [Demo](http://tinykeep.com/dungen/) - Flash
 		* [Procedural Dungeon Generation Algorithm](https://github.com/adonaac/blog/issues/7)
-		* [Delaunay Triangulation Dungeon Generator](https://github.com/glouw/dunge) - C
+		* [Delaunay Triangulation Dungeon Generator](https://github.com/glouw/dungen) - C
 		* [Dungeon Generation Algorithm](https://www.reddit.com/r/roguelikedev/comments/1sd730/my_dungeon_generation_algorithm/) - Relative Neighborhood Graph
 		* [2D Map Generated with a Node-Based Approach](https://www.reddit.com/r/proceduralgeneration/comments/65xrvc/2d_map_generated_with_a_nodebased_approach/)
 
