@@ -1,6 +1,5 @@
 # Programming
 
-* [Game design patterns — online book](http://gameprogrammingpatterns.com/contents.html)
 * [Design Patterns](https://sourcemaking.com/design_patterns)
 * [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans/)
 * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
