@@ -55,15 +55,14 @@
 		* [Procedural Cave Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator) - Unity/C#, 3D
 		* [How Does Level Generation Work In Brogue?](https://www.rockpapershotgun.com/2015/07/28/how-do-roguelikes-generate-levels/) - :+1:
 		* [Python Dungeon Generator](https://whatjaysaid.wordpress.com/2016/01/15/1228/)
-		* [Contour Bombing Cave Generation Algorithm](http://www.darkgnosis.com/2018/03/03/contour-bombing-cave-generation-algorithm) - Alternative for CA
 		* [Improving Procedural 2D Map Generation](https://www.sbgames.org/sbgames2017/papers/COMPUTACAO/FULL_PAPERS/175350_2_versao_preliminar.pdf) - Hilbert curves
+		* [Contour Bombing Cave Generation Algorithm](http://www.darkgnosis.com/2018/03/03/contour-bombing-cave-generation-algorithm) - Alternative for CA
 
 	* Graph
 		* [Over-Engineering Dungeon Generation](http://angband.oook.cz/forum/showthread.php?t=927)
 		* [Procedural Dungeon Generation Algorithm Explained](https://www.reddit.com/r/gamedev/comments/1dlwc4/procedural_dungeon_generation_algorithm_explained/) - :+1:
 			* [TinyKeep](https://forums.tigsource.com/index.php?topic=36176.0) - Devlog
 			* [Demo](http://tinykeep.com/dungen/) - Flash
-			* [AI Demo](http://tinykeep.com/ai/) - Videos
 		* [Procedural Dungeon Generation Algorithm](https://github.com/adonaac/blog/issues/7)
 		* [Delaunay Triangulation Dungeon Generator](https://github.com/glouw/dunge) - C
 		* [Dungeon Generation Algorithm](https://www.reddit.com/r/roguelikedev/comments/1sd730/my_dungeon_generation_algorithm/) - Relative Neighborhood Graph
@@ -92,7 +91,6 @@
 		* [Constructive Generation Methods for Dungeons and Levels](https://graphics.tudelft.nl/Publications-new/2016/SLTLB16/chapter03.Online.pdf) - PDF
         * [Unangband Dungeon Generation](http://roguelikedeveloper.blogspot.ru/2007/11/unangband-dungeon-generation-part-one.html) - Parts 2-9 links in the article.
         * [Random Dungeons: Turbulence Algorithm](http://earok.net/sections/articles/game-dev/theory/random-dungeons)
-        
 
 * **Town**
 	* [A Constrained Growth Method for Procedural Floor Plan Generation](http://graphics.tudelft.nl/~rval/papers/lopes.GAMEON10.pdf) - PDF
@@ -144,6 +142,7 @@
 * [Dijkstra Maps Visualized](http://www.roguebasin.com/index.php?title=Dijkstra_Maps_Visualized)
 * [Distance Map](http://projects.jake.cx/distance-map/)
 * [Applications of Dijkstra Maps in Roguelikes](https://www.youtube.com/watch?v=2ExLEY32RgM) - Video
+* [TinyKeep AI Demo](http://tinykeep.com/ai/) - Flash Demo, Videos
 
 ### Time Management
 
