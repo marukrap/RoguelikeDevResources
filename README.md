@@ -34,12 +34,12 @@
 * **Dungeon**
 	* BSP
 		* [Basic BSP Dungeon Generation](http://www.roguebasin.com/index.php?title=Basic_BSP_Dungeon_generation)
-		* [Random Map Generators](http://www.acornarcade.com/articles/Random_map_generators/index1114.html) - [#2](http://www.acornarcade.com/articles/Building_the_Dream_1_-_Container_data_structures/index1162.html) [#3](http://www.acornarcade.com/articles/Building_the_Dream_2_-_The_RISC_OS_Sound_System/index1209.html) [#4](http://www.acornarcade.com/articles/Building_the_Dream_3_-_Random_map_generators_redux/index1211.html) [#5](http://www.acornarcade.com/articles/Building_the_Dream_4_-_Random_city_basics/index1214.html)
+		* [Dungeon Generation using BSP Trees](https://eskerda.com/bsp-dungeon-generation/)
+		* [How to Use BSP Trees to Generate Game Maps](https://gamedevelopment.tutsplus.com/tutorials/how-to-use-bsp-trees-to-generate-game-maps--gamedev-12268)
 		* [Procedural Dungeon Generation](http://www.varav.in/posts/2016/05/25/dungeon.html)
 		* [Procedural Dungeon Generator](https://www.reddit.com/r/gamedev/comments/z6gl5/procedural_dungeon_generator/)
+		* [Random Map Generators](http://www.acornarcade.com/articles/Random_map_generators/index1114.html) - [#2](http://www.acornarcade.com/articles/Building_the_Dream_1_-_Container_data_structures/index1162.html) [#3](http://www.acornarcade.com/articles/Building_the_Dream_2_-_The_RISC_OS_Sound_System/index1209.html) [#4](http://www.acornarcade.com/articles/Building_the_Dream_3_-_Random_map_generators_redux/index1211.html) [#5](http://www.acornarcade.com/articles/Building_the_Dream_4_-_Random_city_basics/index1214.html)
 		* [Infra Arcana Map Generation Demo](http://forums.roguetemple.com/index.php?topic=3778.0) - Videos [#2](http://www.youtube.com/watch?v=b6Kz2qMyKww) [#3](http://www.youtube.com/watch?v=_oRKLYqB4GI)
-		* [Dungeon generation using BSP trees, 2013](https://eskerda.com/bsp-dungeon-generation/)
-		* [How to Use BSP Trees to Generate Game Maps, 2013](https://gamedevelopment.tutsplus.com/tutorials/how-to-use-bsp-trees-to-generate-game-maps--gamedev-12268)
 
 	* Maze
 		* [Jamis Buck's Maze Algorithms](http://www.jamisbuck.org/mazes/)
@@ -55,13 +55,17 @@
 		* [Procedural Cave Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator) - Unity/C#, 3D
 		* [How Does Level Generation Work In Brogue?](https://www.rockpapershotgun.com/2015/07/28/how-do-roguelikes-generate-levels/) - :+1:
 		* [Python Dungeon Generator](https://whatjaysaid.wordpress.com/2016/01/15/1228/)
-		* Alternative for CA — [Wall Bombardment](http://www.darkgnosis.com/2018/03/03/contour-bombing-cave-generation-algorithm)
-		* [Hilbert curves plus CA](https://www.sbgames.org/sbgames2017/papers/COMPUTACAO/FULL_PAPERS/175350_2_versao_preliminar.pdf) — unusual caves		
+		* [Contour Bombing Cave Generation Algorithm](http://www.darkgnosis.com/2018/03/03/contour-bombing-cave-generation-algorithm) - Alternative for CA
+		* [Improving Procedural 2D Map Generation](https://www.sbgames.org/sbgames2017/papers/COMPUTACAO/FULL_PAPERS/175350_2_versao_preliminar.pdf) - Hilbert curves
 
 	* Graph
 		* [Over-Engineering Dungeon Generation](http://angband.oook.cz/forum/showthread.php?t=927)
-		* [Procedural Dungeon Generation Algorithm Explained, Tinykeep](https://www.reddit.com/r/gamedev/comments/1dlwc4/procedural_dungeon_generation_algorithm_explained/) -  [Demo](http://tinykeep.com/dungen/) - [Source](https://github.com/glouw/dungen) - [How the Tinykeep was created, devlog](https://forums.tigsource.com/index.php?topic=36176.0) - :+1:
+		* [Procedural Dungeon Generation Algorithm Explained](https://www.reddit.com/r/gamedev/comments/1dlwc4/procedural_dungeon_generation_algorithm_explained/) - :+1:
+			* [TinyKeep](https://forums.tigsource.com/index.php?topic=36176.0) - Devlog
+			* [Demo](http://tinykeep.com/dungen/) - Flash
+			* [AI Demo](http://tinykeep.com/ai/) - Videos
 		* [Procedural Dungeon Generation Algorithm](https://github.com/adonaac/blog/issues/7)
+		* [Delaunay Triangulation Dungeon Generator](https://github.com/glouw/dunge) - C
 		* [Dungeon Generation Algorithm](https://www.reddit.com/r/roguelikedev/comments/1sd730/my_dungeon_generation_algorithm/) - Relative Neighborhood Graph
 		* [2D Map Generated with a Node-Based Approach](https://www.reddit.com/r/proceduralgeneration/comments/65xrvc/2d_map_generated_with_a_nodebased_approach/)
 
@@ -75,7 +79,7 @@
 
 	* Miscellaneous
 		* [The Original Rogue Algorithm](https://web.archive.org/web/20131025132021/http://kuoi.org/~kamikaze/GameDesign/art07_rogue_dungeon.php)
-		* [Dungeon Maker](http://dungeonmaker.sourceforge.net/DM2_Manual/index.html) - [Description](http://dungeonmaker.sourceforge.net/DM2_Manual/index.html)
+		* [Dungeon Maker](http://dungeonmaker.sourceforge.net/DM2_Manual/index.html)
         * [Level Generator](https://github.com/mreinstein/level-generator)
 		* [Recursive Tile Map Growth](https://github.com/r3eckon/Recursive-Tile-Map-Growth) - Java
 		* [Make a Mystery Dungeon](http://www5f.biglobe.ne.jp/~kenmo/program/dangeon2/dangeon2.html) - :jp:
@@ -84,11 +88,10 @@
 		* [Level Generator Toolkit](https://chilly-durango.itch.io/level-generator-toolkit)
 		* [DCSS Layout Types](https://crawl.develz.org/wiki/doku.php?id=dcss:brainstorm:dungeon:layout_types)
 		* [Sample Levels from placerooms.pl](http://jonadab.jumpingcrab.com/pastebin/508.html) - [#2](https://github.com/tsadok/level-generator-perlscripts/blob/master/placerooms.pl)
-		* [Zelda-style dungeon generation, article](http://beckylavender.co.uk/portfolio/the-zelda-dungeon-generator/)
-		* [Constructive generation methods for dungeons
-           and levels, large article, PDF](https://graphics.tudelft.nl/Publications-new/2016/SLTLB16/chapter03.Online.pdf)
-        * Unangband dungeon generation, [part 1](http://roguelikedeveloper.blogspot.ru/2007/11/unangband-dungeon-generation-part-one.html), parts 2-9 links in the article.
-        * [Turbulence algorhytm](http://earok.net/sections/articles/game-dev/theory/random-dungeons)
+		* [The Zelda Dungeon Generator](http://beckylavender.co.uk/portfolio/the-zelda-dungeon-generator/)
+		* [Constructive Generation Methods for Dungeons and Levels](https://graphics.tudelft.nl/Publications-new/2016/SLTLB16/chapter03.Online.pdf) - PDF
+        * [Unangband Dungeon Generation](http://roguelikedeveloper.blogspot.ru/2007/11/unangband-dungeon-generation-part-one.html) - Parts 2-9 links in the article.
+        * [Random Dungeons: Turbulence Algorithm](http://earok.net/sections/articles/game-dev/theory/random-dungeons)
         
 
 * **Town**
