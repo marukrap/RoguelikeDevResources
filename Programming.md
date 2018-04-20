@@ -16,6 +16,7 @@
 * [Modern C++: What You Need to Know](https://channel9.msdn.com/Events/Build/2014/2-661) - Video
 * [A Cheatsheet of Modern C++ Language and Library Features](https://github.com/AnthonyCalandra/modern-cpp-features) - C++11/14/17
 * [New Features in C++17](https://stackoverflow.com/a/38060437)
+* [Descriptions of C++17 Features](https://github.com/tvaneerd/cpp17_in_TTs/blob/master/ALL_IN_ONE.md) - :+1:
 
 ### Unicode
 
