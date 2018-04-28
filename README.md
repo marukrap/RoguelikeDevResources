@@ -79,7 +79,7 @@
 	* Miscellaneous
 		* [The Original Rogue Algorithm](https://web.archive.org/web/20131025132021/http://kuoi.org/~kamikaze/GameDesign/art07_rogue_dungeon.php)
 		* [Dungeon Maker](http://dungeonmaker.sourceforge.net/DM2_Manual/index.html)
-        * [Level Generator](https://github.com/mreinstein/level-generator)
+		* [Level Generator](https://github.com/mreinstein/level-generator)
 		* [Recursive Tile Map Growth](https://github.com/r3eckon/Recursive-Tile-Map-Growth) - Java
 		* [Make a Mystery Dungeon](http://www5f.biglobe.ne.jp/~kenmo/program/dangeon2/dangeon2.html) - :jp:
 		* [Three Techniques to Procedurally Generate Dungeons](https://www.reddit.com/r/gamedev/comments/2lyqki/three_techniques_to_procedurally_generate/)
@@ -89,8 +89,10 @@
 		* [Sample Levels from placerooms.pl](http://jonadab.jumpingcrab.com/pastebin/508.html) - [#2](https://github.com/tsadok/level-generator-perlscripts/blob/master/placerooms.pl)
 		* [The Zelda Dungeon Generator](http://beckylavender.co.uk/portfolio/the-zelda-dungeon-generator/)
 		* [Constructive Generation Methods for Dungeons and Levels](https://graphics.tudelft.nl/Publications-new/2016/SLTLB16/chapter03.Online.pdf) - PDF
-        * [Unangband Dungeon Generation](http://roguelikedeveloper.blogspot.ru/2007/11/unangband-dungeon-generation-part-one.html) - Parts 2-9 links in the article.
-        * [Random Dungeons: Turbulence Algorithm](http://earok.net/sections/articles/game-dev/theory/random-dungeons)
+		* [Unangband Dungeon Generation](http://roguelikedeveloper.blogspot.ru/2007/11/unangband-dungeon-generation-part-one.html) - Parts 2-9 links in the article.
+		* [Random Dungeons: Turbulence Algorithm](http://earok.net/sections/articles/game-dev/theory/random-dungeons)
+		* [Winding Ways](http://www.roguebasin.com/index.php?title=Winding_ways)
+		* [Random Paths vis Chiseling](https://www.boristhebrave.com/2018/04/28/random-paths-via-chiseling/)
 
 * **Town**
 	* [A Constrained Growth Method for Procedural Floor Plan Generation](http://graphics.tudelft.nl/~rval/papers/lopes.GAMEON10.pdf) - PDF
