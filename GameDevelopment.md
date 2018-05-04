@@ -10,6 +10,7 @@
 * [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
 * [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) - Videos
 * [OpenGameArt.org](http://opengameart.org/)
+* [GameSounds.xyz](https://gamesounds.xyz/) - Royalty free music and sounds for your games
 * [17 Great Places to Find Free Game Art](https://ninichimusic.com/blog/17-great-places-to-find-free-game-art)
 * [12 Great Places to Find Sound Effects for Your Game or Project](https://ninichimusic.com/blog/2017/3/29/12-great-places-to-find-sound-effects-for-your-game-or-project)
 
