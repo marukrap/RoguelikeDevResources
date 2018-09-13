@@ -92,7 +92,7 @@
 		* [Unangband Dungeon Generation](http://roguelikedeveloper.blogspot.ru/2007/11/unangband-dungeon-generation-part-one.html) - Parts 2-9 links in the article.
 		* [Random Dungeons: Turbulence Algorithm](http://earok.net/sections/articles/game-dev/theory/random-dungeons)
 		* [Winding Ways](http://www.roguebasin.com/index.php?title=Winding_ways)
-		* [Random Paths vis Chiseling](https://www.boristhebrave.com/2018/04/28/random-paths-via-chiseling/)
+		* [Random Paths via Chiseling](https://www.boristhebrave.com/2018/04/28/random-paths-via-chiseling/)
 
 * **Town**
 	* [A Constrained Growth Method for Procedural Floor Plan Generation](http://graphics.tudelft.nl/~rval/papers/lopes.GAMEON10.pdf) - PDF
