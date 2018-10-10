@@ -164,7 +164,8 @@
 ## Videos
 
 * [Roguelike Celebration 2016](https://www.youtube.com/channel/UCsCqXksJuAkfZRtnW5Pq1mw/videos)
-* [Roguelike Celebration 2017](https://www.youtube.com/channel/UCKv_QzXft4mD6TXmQBZtzIA)
+* [Roguelike Celebration 2017](https://www.youtube.com/playlist?list=PLi7jNGNQhwdhiZcp2g4yU7xpXmOqS9VBl)
+* [Roguelike Celebration 2018](https://www.youtube.com/channel/UCKv_QzXft4mD6TXmQBZtzIA/videos)
 * [IRDC 2016](https://www.youtube.com/channel/UCIxJ3OhqqQkUP6xaD23rZcQ/videos)
 * [IRDC 2017](https://www.youtube.com/playlist?list=PLcZ-fMpNVsjUQ_eKlGrOH_OOgjxKzT84w)
 
