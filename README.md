@@ -176,6 +176,8 @@
 * [rltk](https://github.com/thebracket/rltk) - C++
 * [SadConsole](https://github.com/Thraka/SadConsole) - C#
 * [rot.js](https://github.com/ondras/rot.js) - JavaScript
+* [rotLove](https://github.com/paulofmandown/rotLove) - Lua
+* [t-engine](https://te4.org/te4) - Lua
 
 ## Open Source Roguelikes
 
