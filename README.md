@@ -24,6 +24,7 @@
 
 * [RogueBasin Articles](http://www.roguebasin.com/index.php?title=Articles) - :+1:
 * [Procedural Generation Resources](https://www.firespark.de/?id=article&article=ProceduralGenerationResources) - :+1:
+* [Procedural Generation Wiki](http://pcg.wikidot.com/)
 * [Random Dungeon Generators](http://wiki.secretgeek.net/random-dungeon-generators)
 * [Procedural Map Generation](http://www.gridsagegames.com/blog/2014/06/procedural-map-generation/)
 * [FAQ Friday](https://www.reddit.com/r/roguelikedev/wiki/faq_friday)
