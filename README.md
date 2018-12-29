@@ -154,6 +154,7 @@
 
 ## Tutorials
 
+* [Roguelikedev Does The Complete Roguelike Tutorial](https://www.reddit.com/r/roguelikedev/wiki/python_tutorial_series) - Version 2017/2018 :+1:
 * [Complete Roguelike Tutorial using Python and libtcod](http://www.roguebasin.com/index.php?title=Complete_Roguelike_Tutorial,_using_python%2Blibtcod) - :+1:
 * [Complete Roguelike Tutorial using C++ and libtcod](http://www.roguebasin.com/index.php?title=Complete_roguelike_tutorial_using_C%2B%2B_and_libtcod_-_part_1:_setting_up)
 * [Creating a Roguelike Game in C# and RogueSharp](https://roguesharp.wordpress.com/)
