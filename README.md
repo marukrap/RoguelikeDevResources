@@ -68,6 +68,7 @@
 		* [Delaunay Triangulation Dungeon Generator](https://github.com/glouw/dungen) - C
 		* [Dungeon Generation Algorithm](https://www.reddit.com/r/roguelikedev/comments/1sd730/my_dungeon_generation_algorithm/) - Relative Neighborhood Graph
 		* [2D Map Generated with a Node-Based Approach](https://www.reddit.com/r/proceduralgeneration/comments/65xrvc/2d_map_generated_with_a_nodebased_approach/)
+		* [Dungeon Generator (Part 1) – Node-Based Approach](https://ondra.nepozitek.cz/blog/42/dungeon-generator-part-1-node-based-approach/)
 
 	* Template
 		* [Spelunky Generator Lessons](http://tinysubversions.com/spelunkyGen/)
@@ -82,7 +83,7 @@
 		* [Dungeon Maker](http://dungeonmaker.sourceforge.net/DM2_Manual/index.html)
 		* [Level Generator](https://github.com/mreinstein/level-generator)
 		* [Recursive Tile Map Growth](https://github.com/r3eckon/Recursive-Tile-Map-Growth) - Java
-		* ~~[Make a Mystery Dungeon](http://www5f.biglobe.ne.jp/~kenmo/program/dangeon2/dangeon2.html) - :jp:~~
+		* ~~[Make a Mystery Dungeon](http://www5f.biglobe.ne.jp/~kenmo/program/dangeon2/dangeon2.html)~~ - :jp:
 		* [Three Techniques to Procedurally Generate Dungeons](https://www.reddit.com/r/gamedev/comments/2lyqki/three_techniques_to_procedurally_generate/)
 		* [A Bunch of Dungeon Algorithms](https://www.reddit.com/r/roguelikedev/comments/6df0aw/my_implementation_of_a_bunch_of_dungeon_algorithms/)
 		* [Level Generator Toolkit](https://chilly-durango.itch.io/level-generator-toolkit)
