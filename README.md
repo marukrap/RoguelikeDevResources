@@ -50,7 +50,7 @@
 		* [Rooms and Mazes: A Procedural Dungeon Generator](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)
 
 	* Cellular Automata
-		* [Cellular Automata Method for Generating Random Cave-Like Levels](http://www.jimrandomh.org/misc/caves.html)
+		* [Cellular Automata Method for Generating Random Cave-Like Levels](http://www.roguebasin.com/index.php?title=Cellular_Automata_Method_for_Generating_Random_Cave-Like_Levels)
 		* [Using A Cellular Automata Style Rule to Create A Cave System](http://pixelenvy.ca/wa/ca_cave.html)
 		* [C# Algorithm to Build Interesting Cave Systems](http://www.evilscience.co.uk/a-c-algorithm-to-build-roguelike-cave-systems-part-1/)
 		* [Procedural Cave Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator) - Unity/C#, 3D
@@ -82,7 +82,7 @@
 		* [Dungeon Maker](http://dungeonmaker.sourceforge.net/DM2_Manual/index.html)
 		* [Level Generator](https://github.com/mreinstein/level-generator)
 		* [Recursive Tile Map Growth](https://github.com/r3eckon/Recursive-Tile-Map-Growth) - Java
-		* [Make a Mystery Dungeon](http://www5f.biglobe.ne.jp/~kenmo/program/dangeon2/dangeon2.html) - :jp:
+		* ~~[Make a Mystery Dungeon](http://www5f.biglobe.ne.jp/~kenmo/program/dangeon2/dangeon2.html) - :jp:~~
 		* [Three Techniques to Procedurally Generate Dungeons](https://www.reddit.com/r/gamedev/comments/2lyqki/three_techniques_to_procedurally_generate/)
 		* [A Bunch of Dungeon Algorithms](https://www.reddit.com/r/roguelikedev/comments/6df0aw/my_implementation_of_a_bunch_of_dungeon_algorithms/)
 		* [Level Generator Toolkit](https://chilly-durango.itch.io/level-generator-toolkit)
