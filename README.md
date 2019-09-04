@@ -181,6 +181,7 @@
 * [rot.js](https://github.com/ondras/rot.js) - JavaScript
 * [rotLove](https://github.com/paulofmandown/rotLove) - Lua
 * [T-Engine4](https://te4.org/te4) - Lua
+* [LambdaHack](https://github.com/LambdaHack/LambdaHack) - Haskell
 
 ## Open Source Roguelikes
 
