@@ -191,6 +191,7 @@
 * [Martin's Dungeon Bash](http://www.chiark.greenend.org.uk/~mpread/dungeonbash/) - C/C++
 * [Cataclysm DDA](https://github.com/CleverRaven/Cataclysm-DDA) - C++
 * [Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) - C++
+* [Incursion](https://bitbucket.org/rmtew/incursion-roguelike/src/master/) - C++
 * [Infra Arcana](https://github.com/martin-tornqvist/ia) - C++
 * [IVAN](https://github.com/Attnam/ivan) - C++
 * [KeeperRL](https://github.com/miki151/keeperrl) - C++
