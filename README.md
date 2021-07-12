@@ -56,7 +56,7 @@
 		* [Procedural Cave Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator) - Unity/C#, 3D
 		* [How Does Level Generation Work In Brogue?](https://www.rockpapershotgun.com/2015/07/28/how-do-roguelikes-generate-levels/) - :+1:
 		* [Python Dungeon Generator](https://whatjaysaid.wordpress.com/2016/01/15/1228/)
-		* [Improving Procedural 2D Map Generation](https://www.sbgames.org/sbgames2017/papers/COMPUTACAO/FULL_PAPERS/175350_2_versao_preliminar.pdf) - Hilbert curves
+		* [Improving Procedural 2D Map Generation](https://web.archive.org/web/20180417194908/https://www.sbgames.org/sbgames2017/papers/COMPUTACAO/FULL_PAPERS/175350_2_versao_preliminar.pdf) - Hilbert curves
 		* [Contour Bombing Cave Generation Algorithm](http://www.darkgnosis.com/2018/03/03/contour-bombing-cave-generation-algorithm) - Alternative for CA
 
 	* Graph
@@ -75,29 +75,29 @@
 		* [Herringbone Wang Tiles](http://nothings.org/gamedev/herringbone/) - :+1:
 		* [Rogue-like Level Generator](https://www.reddit.com/r/proceduralgeneration/comments/3pa8a1/my_take_at_a_roguelike_level_generator_ft/)
 		* [Procedural Room Generation Explained](http://www.magicaltimebean.com/2014/11/procedural-room-generation-explained/)
-		* [How I Learned to Stop Worrying and Love Prefabs](http://www.goldenkronehotel.com/wordpress/2017/02/18/how-i-learned-to-stop-worrying-and-love-prefabs/)
+		* [How I Learned to Stop Worrying and Love Prefabs](https://web.archive.org/web/20180705075924/http://www.goldenkronehotel.com/wordpress/2017/02/18/how-i-learned-to-stop-worrying-and-love-prefabs/)
 		* [A Template-Based Approach to Procedural Map Generation](https://docs.google.com/document/d/e/2PACX-1vR2cc7r4s_K2T9AYWn06HiccQBv4jlfeFD874yWTa6BZOBDKLVMH7pRW0wZIOZ8cqHombTISFVMlkbV/pub)
 
 	* Miscellaneous
 		* [The Original Rogue Algorithm](https://web.archive.org/web/20131025132021/http://kuoi.org/~kamikaze/GameDesign/art07_rogue_dungeon.php)
-		* [Dungeon Maker](http://dungeonmaker.sourceforge.net/DM2_Manual/index.html)
+		* [Dungeon Maker](https://web.archive.org/web/20210303090002/http://dungeonmaker.sourceforge.net/DM2_Manual/index.html)
 		* [Level Generator](https://github.com/mreinstein/level-generator)
 		* [Recursive Tile Map Growth](https://github.com/r3eckon/Recursive-Tile-Map-Growth) - Java
-		* ~~[Make a Mystery Dungeon](http://www5f.biglobe.ne.jp/~kenmo/program/dangeon2/dangeon2.html)~~ - :jp:
+		* [Make a Mystery Dungeon](https://web.archive.org/web/20180417195113/http://www5f.biglobe.ne.jp/~kenmo/program/dangeon2/dangeon2.html) - :jp:
 		* [Three Techniques to Procedurally Generate Dungeons](https://www.reddit.com/r/gamedev/comments/2lyqki/three_techniques_to_procedurally_generate/)
 		* [A Bunch of Dungeon Algorithms](https://www.reddit.com/r/roguelikedev/comments/6df0aw/my_implementation_of_a_bunch_of_dungeon_algorithms/)
 		* [Level Generator Toolkit](https://chilly-durango.itch.io/level-generator-toolkit)
 		* [DCSS Layout Types](https://crawl.develz.org/wiki/doku.php?id=dcss:brainstorm:dungeon:layout_types)
-		* [Sample Levels from placerooms.pl](http://jonadab.jumpingcrab.com/pastebin/508.html) - [#2](https://github.com/tsadok/level-generator-perlscripts/blob/master/placerooms.pl)
+		* [Sample Levels from placerooms.pl](https://web.archive.org/web/20180417193512/http://jonadab.jumpingcrab.com/pastebin/508.html) - [#2](https://github.com/tsadok/level-generator-perlscripts/blob/master/placerooms.pl)
 		* [The Zelda Dungeon Generator](http://beckylavender.co.uk/portfolio/the-zelda-dungeon-generator/)
-		* [Constructive Generation Methods for Dungeons and Levels](https://graphics.tudelft.nl/Publications-new/2016/SLTLB16/chapter03.Online.pdf) - PDF
+		* [Constructive Generation Methods for Dungeons and Levels]() - PDF
 		* [Unangband Dungeon Generation](http://roguelikedeveloper.blogspot.ru/2007/11/unangband-dungeon-generation-part-one.html) - Parts 2-9 links in the article.
 		* [Random Dungeons: Turbulence Algorithm](http://earok.net/sections/articles/game-dev/theory/random-dungeons)
 		* [Winding Ways](http://www.roguebasin.com/index.php?title=Winding_ways)
 		* [Random Paths via Chiseling](https://www.boristhebrave.com/2018/04/28/random-paths-via-chiseling/)
 
 * **Town**
-	* [A Constrained Growth Method for Procedural Floor Plan Generation](http://graphics.tudelft.nl/~rval/papers/lopes.GAMEON10.pdf) - PDF
+	* [A Constrained Growth Method for Procedural Floor Plan Generation](https://web.archive.org/web/20180920170906/http://graphics.tudelft.nl/~rval/papers/lopes.GAMEON10.pdf) - PDF
 
 * **Overworld**
 	* [Generating Fantasy Maps](http://mewo2.com/notes/terrain/)
@@ -116,7 +116,7 @@
 
 * **Space**
 	* [Procedural Generation for Dummies: Galaxy Generation](http://martindevans.me/game-development/2016/01/14/Procedural-Generation-For-Dummies-Galaxies/)
-	* [Procedural Stars Map](http://simonrodriguez.fr/starmap/)
+	* [Procedural Stars Map](https://web.archive.org/web/20180417193835/http://simonrodriguez.fr/starmap/)
 	* [Procedural Generation of 2D Space Scenes in WebGL](https://wwwtyro.net/2016/10/22/2D-space-scene-procgen.html)
 	* [A 2D Procedural Galaxy with C++](http://itinerantgames.tumblr.com/post/78592276402/a-2d-procedural-galaxy-with-c)
 	* [The Frontier Galaxy](http://www.jongware.com/galaxy1.html)
@@ -142,7 +142,7 @@
 ### AI
 
 * [The Incredible Power of Dijkstra Maps](http://www.roguebasin.com/index.php?title=The_Incredible_Power_of_Dijkstra_Maps) - :+1:
-	* Progressive Dijkstra Scan - [#1](http://paleoludic.com/writing/whitespace-reasoning/) [#2](http://paleoludic.com/writing/a-pathfinding-primer/) [#3](http://paleoludic.com/writing/engineering-pds/)
+	* Progressive Dijkstra Scan - [#1](https://web.archive.org/web/20180823180255/http://paleoludic.com/writing/whitespace-reasoning/) [#2](https://web.archive.org/web/20180823171708/http://paleoludic.com/writing/a-pathfinding-primer/) [#3](https://web.archive.org/web/20180823175048/http://paleoludic.com/writing/engineering-pds/)
 * [Dijkstra Maps Visualized](http://www.roguebasin.com/index.php?title=Dijkstra_Maps_Visualized)
 * [Distance Map](http://projects.jake.cx/distance-map/)
 * [Applications of Dijkstra Maps in Roguelikes](https://www.youtube.com/watch?v=2ExLEY32RgM) - Video
@@ -160,9 +160,9 @@
 * [Creating a Roguelike Game in C# and RogueSharp](https://roguesharp.wordpress.com/)
 * [Roguelike Tutorial in Java and AsciiPanel](http://trystans.blogspot.kr/2016/01/roguelike-tutorial-00-table-of-contents.html)
 * [Building a Roguelike in JavaScript and rot.js](http://www.codingcookies.com/2013/04/01/building-a-roguelike-in-javascript-part-1/)
-* [Let's Build a Roguelike in FreeBasic](http://users.freebasic-portal.de/rdc/tutorials.html)
+* [Let's Build a Roguelike in FreeBasic](https://web.archive.org/web/20201112040347/https://users.freebasic-portal.de/rdc/tutorials.html)
 * [Unity 2D Roguelike Tutorial](https://unity3d.com/kr/learn/tutorials/s/2d-roguelike-tutorial)
-* [Python Roguelike Tutorial](https://www.youtube.com/playlist?list=PLKUel_nHsTQ1yX7tQxR_SQRdcOFyXfNAb) - Videos
+* ~~[Python Roguelike Tutorial](https://www.youtube.com/playlist?list=PLKUel_nHsTQ1yX7tQxR_SQRdcOFyXfNAb) - Videos~~
 
 ## Videos
 
