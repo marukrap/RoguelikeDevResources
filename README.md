@@ -97,7 +97,7 @@
 		* [Random Paths via Chiseling](https://www.boristhebrave.com/2018/04/28/random-paths-via-chiseling/)
 
 * **Town**
-	* [A Constrained Growth Method for Procedural Floor Plan Generation](http://graphics.tudelft.nl/~rval/papers/lopes.GAMEON10.pdf) - PDF
+	* [A Constrained Growth Method for Procedural Floor Plan Generation](https://graphics.tudelft.nl/Publications-new/2010/LTSDB10a/LTSDB10a.pdf) - PDF
 
 * **Overworld**
 	* [Generating Fantasy Maps](http://mewo2.com/notes/terrain/)
