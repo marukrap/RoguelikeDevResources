@@ -75,7 +75,7 @@
 		* [Herringbone Wang Tiles](http://nothings.org/gamedev/herringbone/) - :+1:
 		* [Rogue-like Level Generator](https://www.reddit.com/r/proceduralgeneration/comments/3pa8a1/my_take_at_a_roguelike_level_generator_ft/)
 		* [Procedural Room Generation Explained](http://www.magicaltimebean.com/2014/11/procedural-room-generation-explained/)
-		* [How I Learned to Stop Worrying and Love Prefabs](https://web.archive.org/web/20180705075924/http://www.goldenkronehotel.com/wordpress/2017/02/18/how-i-learned-to-stop-worrying-and-love-prefabs/)
+		* [How I Learned to Stop Worrying and Love Prefabs](https://www.goldenkronehotel.com/wp/2017/02/18/how-i-learned-to-stop-worrying-and-love-prefabs/)
 		* [A Template-Based Approach to Procedural Map Generation](https://docs.google.com/document/d/e/2PACX-1vR2cc7r4s_K2T9AYWn06HiccQBv4jlfeFD874yWTa6BZOBDKLVMH7pRW0wZIOZ8cqHombTISFVMlkbV/pub)
 
 	* Miscellaneous
