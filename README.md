@@ -108,6 +108,8 @@
 	* [Map Generator Based on Voronoi Diagram and Perlin Noise](https://github.com/averrin/mapgen) - C++
 	* [World Generator Inspired by Dwarf Fortress](https://github.com/Dozed12/df-style-worldgen) - Python
 	* [Procedural Worlds from Simple Tiles](http://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
+	* [Various PCG Articles by pvigier(Vagabond)](https://pvigier.github.io/tag/pcg/) - Overworld/Dungeon/Cave/City, etc.
+	* [Island Generation](http://thingonitsown.blogspot.com/2018/10/island-generation.html) - More interesting articles on the blog.
 	
 * **Landscape**
 	* [Landscape Generation using Midpoint Displacement](https://bitesofcode.wordpress.com/2016/12/23/landscape-generation-using-midpoint-displacement/)
