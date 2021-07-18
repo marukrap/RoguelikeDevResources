@@ -56,7 +56,7 @@
 		* [Procedural Cave Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator) - Unity/C#, 3D
 		* [How Does Level Generation Work In Brogue?](https://www.rockpapershotgun.com/2015/07/28/how-do-roguelikes-generate-levels/) - :+1:
 		* [Python Dungeon Generator](https://whatjaysaid.wordpress.com/2016/01/15/1228/)
-		* [Improving Procedural 2D Map Generation](https://web.archive.org/web/20180417194908/https://www.sbgames.org/sbgames2017/papers/COMPUTACAO/FULL_PAPERS/175350_2_versao_preliminar.pdf) - Hilbert curves
+		* [Improving Procedural 2D Map Generation](https://www.sbgames.org/sbgames2017/papers/ComputacaoFull/175350.pdf) - Hilbert curves
 		* [Contour Bombing Cave Generation Algorithm](http://www.darkgnosis.com/2018/03/03/contour-bombing-cave-generation-algorithm) - Alternative for CA
 
 	* Graph
@@ -80,7 +80,7 @@
 
 	* Miscellaneous
 		* [The Original Rogue Algorithm](https://web.archive.org/web/20131025132021/http://kuoi.org/~kamikaze/GameDesign/art07_rogue_dungeon.php)
-		* [Dungeon Maker](https://web.archive.org/web/20210303090002/http://dungeonmaker.sourceforge.net/DM2_Manual/index.html)
+		* [Dungeon Maker](http://dungeonmaker.sourceforge.net/DM2_Manual/index.html)
 		* [Level Generator](https://github.com/mreinstein/level-generator)
 		* [Recursive Tile Map Growth](https://github.com/r3eckon/Recursive-Tile-Map-Growth) - Java
 		* [Make a Mystery Dungeon](https://web.archive.org/web/20180417195113/http://www5f.biglobe.ne.jp/~kenmo/program/dangeon2/dangeon2.html) - :jp:
@@ -90,7 +90,7 @@
 		* [DCSS Layout Types](https://crawl.develz.org/wiki/doku.php?id=dcss:brainstorm:dungeon:layout_types)
 		* [Sample Levels from placerooms.pl](https://web.archive.org/web/20180417193512/http://jonadab.jumpingcrab.com/pastebin/508.html) - [#2](https://github.com/tsadok/level-generator-perlscripts/blob/master/placerooms.pl)
 		* [The Zelda Dungeon Generator](http://beckylavender.co.uk/portfolio/the-zelda-dungeon-generator/)
-		* [Constructive Generation Methods for Dungeons and Levels]() - PDF
+		* [Constructive Generation Methods for Dungeons and Levels](https://graphics.tudelft.nl/Publications-new/2016/SLTLB16/chapter03.Online.pdf) - PDF
 		* [Unangband Dungeon Generation](http://roguelikedeveloper.blogspot.ru/2007/11/unangband-dungeon-generation-part-one.html) - Parts 2-9 links in the article.
 		* [Random Dungeons: Turbulence Algorithm](http://earok.net/sections/articles/game-dev/theory/random-dungeons)
 		* [Winding Ways](http://www.roguebasin.com/index.php?title=Winding_ways)
@@ -162,7 +162,7 @@
 * [Creating a Roguelike Game in C# and RogueSharp](https://roguesharp.wordpress.com/)
 * [Roguelike Tutorial in Java and AsciiPanel](http://trystans.blogspot.kr/2016/01/roguelike-tutorial-00-table-of-contents.html)
 * [Building a Roguelike in JavaScript and rot.js](http://www.codingcookies.com/2013/04/01/building-a-roguelike-in-javascript-part-1/)
-* [Let's Build a Roguelike in FreeBasic](https://web.archive.org/web/20201112040347/https://users.freebasic-portal.de/rdc/tutorials.html)
+* [Let's Build a Roguelike in FreeBasic](http://users.freebasic-portal.de/rdc/tutorials.html)
 * [Unity 2D Roguelike Tutorial](https://unity3d.com/kr/learn/tutorials/s/2d-roguelike-tutorial)
 * ~~[Python Roguelike Tutorial](https://www.youtube.com/playlist?list=PLKUel_nHsTQ1yX7tQxR_SQRdcOFyXfNAb) - Videos~~
 
