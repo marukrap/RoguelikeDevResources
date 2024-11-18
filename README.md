@@ -89,7 +89,6 @@
 		* [Level Generator Toolkit](https://chilly-durango.itch.io/level-generator-toolkit)
 		* [DCSS Layout Types](https://crawl.develz.org/wiki/doku.php?id=dcss:brainstorm:dungeon:layout_types)
 		* [Sample Levels from placerooms.pl](https://web.archive.org/web/20180417193512/http://jonadab.jumpingcrab.com/pastebin/508.html) - [#2](https://github.com/tsadok/level-generator-perlscripts/blob/master/placerooms.pl)
-		* [The Zelda Dungeon Generator](http://beckylavender.co.uk/portfolio/the-zelda-dungeon-generator/)
 		* [Constructive Generation Methods for Dungeons and Levels](https://graphics.tudelft.nl/Publications-new/2016/SLTLB16/chapter03.Online.pdf) - PDF
 		* [Unangband Dungeon Generation](http://roguelikedeveloper.blogspot.ru/2007/11/unangband-dungeon-generation-part-one.html) - Parts 2-9 links in the article.
 		* [Random Dungeons: Turbulence Algorithm](http://earok.net/sections/articles/game-dev/theory/random-dungeons)
