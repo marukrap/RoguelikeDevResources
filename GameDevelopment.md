@@ -4,6 +4,7 @@
 
 * [A Wonderful List of Game Development Resources](https://github.com/Kavex/GameDev-Resources)
 * [A List of Game Development Resources to Make Magic Happen](https://github.com/ellisonleao/magictools)
+* [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game developers
 * [Useful Programming and Game Development Resources](https://eliasdaler.github.io/programming-and-gamedev-resources/)
 * [Game Development Resources](https://game-development.zeef.com/david.arcila)
 * [Pocketknives for Game Developers](https://www.reddit.com/r/gamedev/comments/18e38t/pocketknives_for_game_developers/)
